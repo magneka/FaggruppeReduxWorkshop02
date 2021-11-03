@@ -1,5 +1,5 @@
 REDUX SESJON to
-===============
+***************
 
 Nå skal vi se på en applikasjon som ligner mer på noe man vil ha i produksjon.
 Vi har et filter i header som påvirker andre komponenter.
